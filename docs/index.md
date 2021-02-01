@@ -14,6 +14,6 @@ This is published as [https://xbin.org/](https://xbin.org/)
 
 [LinkedIn](https://www.linkedin.com/in/curt-welch-5237671b/)
 
-[curtwelch.com](https://curtwelch.com/)
+[curtwelch.com](http://curtwelch.com/)
 
-[ayrhillforge.com](https://ayrhillforge.com/)
+[ayrhillforge.com](http://ayrhillforge.com/)
